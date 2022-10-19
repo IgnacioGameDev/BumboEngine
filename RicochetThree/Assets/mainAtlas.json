@@ -1,0 +1,57 @@
+{
+	"frames": [
+		{
+			"filename": "alf.jpg",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 350,
+				"h": 262
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 350,
+				"h": 262
+			},
+			"sourceSize": {
+				"w": 350,
+				"h": 262
+			}
+		},
+		{
+			"filename": "yoshi.png",
+			"frame": {
+				"x": 353,
+				"y": 1,
+				"w": 420,
+				"h": 413
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 420,
+				"h": 413
+			},
+			"sourceSize": {
+				"w": 420,
+				"h": 413
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 774,
+			"h": 415
+		},
+		"scale": "1"
+	}
+}

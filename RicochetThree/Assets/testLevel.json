@@ -1,0 +1,21 @@
+{
+    "LevelEntities": [
+        {
+            "SpriteData": {
+                "atlasJsonKey": "alf.jpg",
+                "posX": 800.0,
+                "posY": 600.0
+            },
+            "entityName": "ALF"
+        },
+        {
+            "SpriteData": {
+                "atlasJsonKey": "yoshi.png",
+                "posX": 100.0,
+                "posY": 100.0
+            },
+            "entityName": "BeegYoshi"
+        }
+    ],
+    "levelName": "test level"
+}
